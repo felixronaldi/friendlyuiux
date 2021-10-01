@@ -135,13 +135,13 @@ header .scrolldown a:hover { color: #0762f9; }
    left: 0;
    top: 0;
 }
-.opaque { background-color: #333; }
+.opaque { background-color: rgb(0, 1, 49); }
 
 /* hide toggle button */
 #nav-wrap > a.mobile-btn { display: none; }
 
 ul#nav {
-   min-height: 48px;
+   min-height: 60px;
    width: auto;
 
    /* center align the menu */
@@ -161,7 +161,7 @@ ul#nav li a {
 
    display: inline-block;
    padding: 8px 13px;
-   line-height: 32px;
+   line-height: 45px;
 	text-decoration: none;
    text-align: left;
    color: #fff;
@@ -174,7 +174,7 @@ ul#nav li a {
 }
 
 ul#nav li a:active { background-color: transparent !important; }
-ul#nav li.current a { color: #fe6928; }
+ul#nav li.current a { color: #288cfe; }
 
 
 /* ------------------------------------------------------------------ */
@@ -202,8 +202,8 @@ ul#nav li.current a { color: #fe6928; }
 }
 #about .profile-pic {
    position: relative;
-   width: 120px;
-   height: 120px;
+   width: 200px;
+   height: 200px;
    border-radius: 100%;
 }
 #about .contact-details { width: 41.66667%; }

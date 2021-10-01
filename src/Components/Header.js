@@ -1,6 +1,7 @@
 import React, { Component } from "react";
 import ParticlesBg from "particles-bg";
 import Fade from "react-reveal";
+import powerslap from "./video/vids.mp4"
 
 class Header extends Component {
   render() {
@@ -13,7 +14,18 @@ class Header extends Component {
 
     return (
       <header id="home">
-        <ParticlesBg type="circle" bg={true} />
+        <video
+        autoPlay loop muted
+        style={{
+          position: "absolute",
+          width: "100%",
+          left:"0",
+          top:"0",
+          height:"100%",
+          objectFit:"cover",
+        }}>
+          <source src={powerslap} type="video/mp4" />
+          </video>
 
         <nav id="nav-wrap">
           <a className="mobile-btn" href="#nav-wrap" title="Show navigation">
