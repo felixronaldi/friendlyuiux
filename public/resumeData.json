@@ -53,25 +53,49 @@
         "degree":"Information Technology",
         "graduated":"Agust 2021",
         "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
-      },
-      {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2013",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2018 - Present",
+        "company":"Emporia Digital Raya (Graha Anabatic)",
+        "title":"Software Engineer (Front-End Developer)",
+        "years":"June 2021 - Present",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2017 - February 2018",
+        "company":"Bisa Ekspor",
+        "title":"Operational Manager & Community Relation",
+        "years":"September 2020 - March 2021",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Bisa Ekspor",
+        "title":"Business Analyst",
+        "years":"May 2020 - September 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Tulang Punggung Kreasi Indonesia",
+        "title":"Project Manager & Software Engineer",
+        "years":"May 2020 - July 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"Keik Cafe",
+        "title":"Manager & Head Barista",
+        "years":"February 2020 - May 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"From Our Friends Coffe Shop",
+        "title":"Head Barista & Cooker",
+        "years":"January 2019 - February 2020",
+        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+      },
+      {
+        "company":"PT. Sari Coffee Indonesia",
+        "title":"Barista",
+        "years":"October 2018 - December 2018",
         "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
       }
     ],

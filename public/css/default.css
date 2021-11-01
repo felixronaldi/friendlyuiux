@@ -576,6 +576,12 @@ legend span {
    font: 14px/24px 'opensans-regular', sans-serif;
 }
 
+label span2,
+legend span2 {
+	color: #8B9798;
+   font: 14px/24px 'opensans-regular', sans-serif;
+}
+
 input[type="checkbox"],
 input[type="radio"] {
     font-size: 15px;
