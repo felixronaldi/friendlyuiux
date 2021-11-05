@@ -1,9 +1,9 @@
 {
   "main": {
-    "name":"Friendly UI/UX",
-    "description":"I am a web development engineer and I use react and vue.js to develop pages. This project is a resume template that can be used as the project home page or resume page",
+    "name":"Felix Ronaldi",
+    "description":"Front End Developer",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio":"I am an Easy Going person, on the other hand I really like being well organized. I learned something on my own by applying the growth mindset within myself. Logic Thinking inside of me, makes me work more effectively, like making things easier and faster.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "felixronaldi@gmail.com",
     "phone": "+628988349310",
